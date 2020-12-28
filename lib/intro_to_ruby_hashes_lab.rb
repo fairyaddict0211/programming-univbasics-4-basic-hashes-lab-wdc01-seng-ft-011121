@@ -11,6 +11,6 @@ pioneer = {:name => 'Grace Hopper'}
 end
 
 
-def id_hash_generator(5)
-  hash = {:id => "5"}
+def id_hash_generator(number)
+  hash = {:id => number}
 end
